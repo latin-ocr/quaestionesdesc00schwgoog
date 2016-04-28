@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesdesc00schwgoog_0009.png"; bbox 0 0 3142 4700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 540 1490 945 1591">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 540 1490 945 1591">
+     <span class='ocr_line' id='line_1_1' title="bbox 540 1490 945 1591; baseline -0.005 -16"><span class='ocrx_word' id='word_1_1' title='bbox 540 1490 945 1591; x_wconf 77' lang='lat' dir='ltr'>QUAESTIONES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 713 1713 767 1770">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 713 1713 767 1770">
+     <span class='ocr_line' id='line_1_2' title="bbox 713 1713 767 1770; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 713 1713 767 1770; x_wconf 81' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 163 1846 1322 2026">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 163 1846 1322 2026">
+     <span class='ocr_line' id='line_1_3' title="bbox 163 1846 1322 2026; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 163 1925 513 2026; x_wconf 77' lang='lat' dir='ltr'><strong>SOHOLIORUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 544 1846 1019 2025; x_wconf 78' lang='lat' dir='ltr'>THUCYDIDEORUM</span> <span class='ocrx_word' id='word_1_5' title='bbox 1049 1924 1322 2024; x_wconf 78' lang='lat' dir='ltr'>FONTIBUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 656 2352 817 2406">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 656 2352 817 2406">
+     <span class='ocr_line' id='line_1_4' title="bbox 656 2352 817 2406; baseline -0.006 -1"><span class='ocrx_word' id='word_1_6' title='bbox 656 2352 817 2406; x_wconf 86' lang='lat' dir='ltr'><strong>SCRIPSIT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 420 2589 1019 2680">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 420 2589 1019 2680">
+     <span class='ocr_line' id='line_1_5' title="bbox 420 2589 1019 2680; baseline -0.013 -10"><span class='ocrx_word' id='word_1_7' title='bbox 420 2665 423 2670; x_wconf 77' lang='grc'>,</span> <span class='ocrx_word' id='word_1_8' title='bbox 460 2589 729 2665; x_wconf 75' lang='lat' dir='ltr'>ERNESTUS</span> <span class='ocrx_word' id='word_1_9' title='bbox 759 2589 1019 2680; x_wconf 80' lang='lat' dir='ltr'><strong>SOHWABE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1576 4700">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1576 4700">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1576 4700; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1576 4700; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
